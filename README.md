@@ -7,6 +7,6 @@ a website to sell products online .
 ## technologies used
 * HTML
 * CSS
-* JQuery
+* React Js
 * JavaScript
 
