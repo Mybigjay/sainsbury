@@ -1,10 +1,9 @@
-
 # sainsbury-ecommerce 
 a website to sell products online .
 
-* mobile friendly
+* mobile friendly website
 
-## technologies used
+## technologies used are
 * HTML
 * CSS
 * React Js
